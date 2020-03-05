@@ -33,3 +33,15 @@ time: 2020-03-05T11:39:00+01:00
 	Average response time over 10 asynchronous request: 422.6
 	Average response time over 100 synchronous request: 678.37
 	Average response time over 100 asynchronous request: 428.31
+
+language: C#
+library: HttpClient
+website: https://httpbin.org/get  
+location: university library
+time: 2020-03-05T15:30:00+01:00
+	Average response time over 1 synchronous request:400  
+	Average response time over 1 asynchronous request:189  
+	Average response time over 10 synchronous request:182  
+	Average response time over 10 asynchronous request:100  
+	Average response time over 100 synchronous request:235  
+	Average response time over 100 asynchronous request:119
