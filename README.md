@@ -27,7 +27,7 @@ time: 2020-03-05T11:39:00+01:00
 	Average response time over 100 asynchronous request: 329.35  
   
 language: node  
-library: got  
+library: superagent  
 website: https://httpbin.org/get  
 location: university library  
 time: 2020-03-05T11:39:00+01:00  
