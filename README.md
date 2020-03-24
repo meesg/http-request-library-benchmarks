@@ -1,9 +1,4 @@
 # http-request-library-benchmarks
-  
-  
-## Notes
-
-In the node code, the synchronous functions should also be await-ed to make it a little bit more fair.
  
 ## results
 
